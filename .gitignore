@@ -1,0 +1,13 @@
+# Python compiled files
+*.pyc
+*.pyo
+__pycache__/
+
+# IDE/Editor files
+.idea/
+.vscode/
+*.swp
+
+# Dependency directories
+venv/
+env/
